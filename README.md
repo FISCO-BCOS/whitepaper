@@ -7,7 +7,7 @@
 
 ### <div align=center>2017年12月</div>  
 
-[FISCO BCOS Whitepaper(EN) ](README_EN.md)
+### <div align=center>[FISCO BCOS Whitepaper(EN) ](README_EN.md)</div> 
 
 <!-- TOC -->
 
