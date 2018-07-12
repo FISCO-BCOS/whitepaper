@@ -1,5 +1,5 @@
-# <div align=center>**金融区块链底层平台FISCO BCOS白皮书**</div>
-### <div align=center>[FISCO BCOS Whitepaper(EN) ](README_EN.md)</div> 
+# <div align=center>**金融区块链底层平台FISCO BCOS白皮书（English Version:[FISCO BCOS Whitepaper(EN) ](README_EN.md) ）**</div>
+### <div align=center></div> 
 ## <div align=center>金融区块链基础设施与实践样本</div>
 ### <div align=center>v1.0</div>
 
